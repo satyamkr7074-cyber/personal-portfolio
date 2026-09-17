@@ -178,3 +178,11 @@ Personal Portfolio/
     ├── project.png
     ├── education.png
     └── contact.png
+
+    ## 🔗 Project Links
+
+### GitHub Repository
+https://github.com/satyamkr7074-cyber/personal-portfolio
+
+### Live Demo
+https://satyamkr7074-cyber.github.io/personal-portfolio/
